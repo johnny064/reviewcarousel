@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+.home-container{
+    background: rgb(214, 214, 214);
+}
+img{
+    border-radius:70%;
+    height:150px;
+    width: 150px;
+}
+.name{
+    font-size: 2rem;
+
+}
+.title{
+    font-size: 1.4rem;
+    font-weight: bold;
+}
+.para-review{
+    font-size: 1.4rem;
+}
+#nextBtn{
+    font-size: 2rem;
+}
+
+#prevBtn{
+    font-size: 2rem;
+}
